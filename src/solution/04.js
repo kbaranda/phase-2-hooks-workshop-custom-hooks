@@ -17,9 +17,6 @@ export default function App() {
     <div>
       <h2>useLocalStorage can save string</h2>
       <Form />
-      <hr />
-      <h2>useLocalStorage can save objects (Bonus)</h2>
-      <FormWithObject />
     </div>
   );
 }
